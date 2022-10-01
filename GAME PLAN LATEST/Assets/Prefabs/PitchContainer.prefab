@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &118564
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 418564}
+  - component: {fileID: 11418564}
+  m_Layer: 0
+  m_Name: PitchContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &418564
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 118564}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11418564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 118564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cfc4811b9fa082458fdc906dc849b47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pitches:
+  - name: EasyStraight
+    simulate: 0
+    ballOrigin: {x: 0, y: 1, z: 10}
+    ballVelocity: {x: 0, y: 1, z: -25}
+    ballForce: {x: 0, y: 0, z: 0}
+    direction: leg
+    TimingText: {fileID: 0}
+    strikeTimes:
+    - time:
+        min: 0
+        max: 0.2
+      onInputType: 1
+      hitType: 10
+      TimingText: Too Early
+      direction: 
+    - time:
+        min: 0
+        max: 0.2
+      onInputType: 2
+      hitType: 11
+      TimingText: Too Early
+      direction: 
+    - time:
+        min: 0.2
+        max: 0.25
+      onInputType: 1
+      hitType: 9
+      TimingText: Nearly Perfect
+      direction: 
+    - time:
+        min: 0.2
+        max: 0.25
+      onInputType: 2
+      hitType: 8
+      TimingText: Nearly Perfect
+      direction: 
+    - time:
+        min: 0.25
+        max: 0.3
+      onInputType: 1
+      hitType: 7
+      TimingText: Nearly Perfect
+      direction: 
+    - time:
+        min: 0.25
+        max: 0.3
+      onInputType: 2
+      hitType: 6
+      TimingText: Nearly Perfect
+      direction: 
+    - time:
+        min: 0.3
+        max: 0.4
+      onInputType: 1
+      hitType: 5
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.3
+        max: 0.4
+      onInputType: 2
+      hitType: 4
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.4
+        max: 0.6
+      onInputType: 1
+      hitType: 3
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.4
+        max: 0.6
+      onInputType: 2
+      hitType: 2
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.6
+        max: 0.7
+      onInputType: 1
+      hitType: 5
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.6
+        max: 0.7
+      onInputType: 2
+      hitType: 4
+      TimingText: Perfect Timing
+      direction: 
+    - time:
+        min: 0.7
+        max: 0.75
+      onInputType: 1
+      hitType: 7
+      TimingText: Slightly Late
+      direction: 
+    - time:
+        min: 0.7
+        max: 0.75
+      onInputType: 2
+      hitType: 6
+      TimingText: Slightly Late
+      direction: 
+    - time:
+        min: 0.75
+        max: 0.8
+      onInputType: 1
+      hitType: 9
+      TimingText: Slightly Late
+      direction: 
+    - time:
+        min: 0.75
+        max: 0.8
+      onInputType: 2
+      hitType: 8
+      TimingText: Slightly Late
+      direction: 
+    - time:
+        min: 0.8
+        max: 1
+      onInputType: 1
+      hitType: 13
+      TimingText: Too Late
+      direction: 
+    - time:
+        min: 0.8
+        max: 1
+      onInputType: 2
+      hitType: 12
+      TimingText: Too Late
+      direction: 
+    hitsWicket: 1
+    hitsWicketAtTime: 1

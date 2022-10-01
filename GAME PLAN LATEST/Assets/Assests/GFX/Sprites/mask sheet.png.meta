@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 25bf5e9c075aee043a0218ee3337b477
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sheet_0
+    21300002: sheet_1
+    21300004: sheet_2
+    21300006: sheet_3
+    21300008: sheet_4
+    21300010: sheet_5
+    21300012: sheet_6
+    21300014: sheet_7
+    21300016: sheet_8
+    21300018: sheet_9
+    21300020: sheet_10
+    21300022: sheet_11
+    21300024: sheet_12
+    21300026: sheet_13
+    21300028: sheet_14
+    21300030: sheet_15
+    21300032: sheet_16
+    21300034: sheet_17
+    21300036: sheet_18
+    21300038: sheet_19
+    21300040: sheet_20
+    21300042: sheet_21
+    21300044: sheet_22
+    21300046: sheet_23
+    21300048: sheet_24
+    21300050: sheet_25
+    21300052: sheet_26
+    21300054: sheet_27
+    21300056: sheet_28
+    21300058: sheet_29
+    21300060: sheet_30
+    21300062: sheet_31
+    21300064: sheet_32
+    21300066: sheet_33
+    21300068: sheet_34
+    21300070: sheet_35
+    21300072: sheet_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3379
+        width: 234
+        height: 717
+      alignment: 9
+      pivot: {x: 0.36087915, y: 0.051457148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3320
+        width: 308
+        height: 740
+      alignment: 9
+      pivot: {x: 0.30270138, y: 0.07474134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3327
+        width: 269
+        height: 720
+      alignment: 9
+      pivot: {x: 0.3063686, y: 0.056900024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3322
+        width: 288
+        height: 733
+      alignment: 9
+      pivot: {x: 0.38696438, y: 0.05291523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 3274
+        width: 236
+        height: 805
+      alignment: 9
+      pivot: {x: 0.33175555, y: 0.025942596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 3269
+        width: 416
+        height: 787
+      alignment: 9
+      pivot: {x: 0.60089815, y: 0.04050966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 3237
+        width: 305
+        height: 814
+      alignment: 9
+      pivot: {x: 0.43601835, y: 0.061940335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2572
+        width: 274
+        height: 718
+      alignment: 9
+      pivot: {x: 0.671973, y: 0.048705373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2552
+        width: 275
+        height: 724
+      alignment: 9
+      pivot: {x: 0.6026359, y: 0.059226695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2517
+        width: 326
+        height: 779
+      alignment: 9
+      pivot: {x: 0.52899843, y: 0.05136794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_10
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2473
+        width: 321
+        height: 753
+      alignment: 9
+      pivot: {x: 0.41696784, y: 0.033604514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2481
+        width: 448
+        height: 783
+      alignment: 9
+      pivot: {x: 0.23798016, y: 0.09202917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2475
+        width: 535
+        height: 749
+      alignment: 9
+      pivot: {x: 0.22303843, y: 0.042679302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2456
+        width: 479
+        height: 797
+      alignment: 9
+      pivot: {x: 0.21476322, y: 0.046077024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 2460
+        width: 483
+        height: 810
+      alignment: 9
+      pivot: {x: 0.34461838, y: 0.027229214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2439
+        width: 440
+        height: 893
+      alignment: 9
+      pivot: {x: 0.3163125, y: 0.051776677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1699
+        width: 314
+        height: 735
+      alignment: 9
+      pivot: {x: 0.66850233, y: 0.05516349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1668
+        width: 308
+        height: 758
+      alignment: 9
+      pivot: {x: 0.7113227, y: 0.07592081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1656
+        width: 369
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5413132, y: 0.124513514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1651
+        width: 312
+        height: 735
+      alignment: 9
+      pivot: {x: 0.4698001, y: 0.11060916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1656
+        width: 411
+        height: 730
+      alignment: 9
+      pivot: {x: 0.4714002, y: 0.103488535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1668
+        width: 492
+        height: 700
+      alignment: 9
+      pivot: {x: 0.27469194, y: 0.0934654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1624
+        width: 469
+        height: 764
+      alignment: 9
+      pivot: {x: 0.32754824, y: 0.10097532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 1549
+        width: 440
+        height: 867
+      alignment: 9
+      pivot: {x: 0.4155623, y: 0.13338117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 221
+        height: 763
+      alignment: 9
+      pivot: {x: 0.36382374, y: 0.049992193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 853
+        width: 256
+        height: 759
+      alignment: 9
+      pivot: {x: 0.40781724, y: 0.050362367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 833
+        width: 244
+        height: 776
+      alignment: 9
+      pivot: {x: 0.4107231, y: 0.069569856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 826
+        width: 243
+        height: 783
+      alignment: 9
+      pivot: {x: 0.4775888, y: 0.061825886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 797
+        width: 287
+        height: 810
+      alignment: 9
+      pivot: {x: 0.44939953, y: 0.08091386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 792
+        width: 292
+        height: 798
+      alignment: 9
+      pivot: {x: 0.59946764, y: 0.07688678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 790
+        width: 297
+        height: 811
+      alignment: 9
+      pivot: {x: 0.67113847, y: 0.079192325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 784
+        width: 347
+        height: 781
+      alignment: 9
+      pivot: {x: 0.7092553, y: 0.06767681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 750
+        width: 328
+        height: 806
+      alignment: 9
+      pivot: {x: 0.6826358, y: 0.08108634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 661
+        width: 329
+        height: 866
+      alignment: 9
+      pivot: {x: 0.66001004, y: 0.024166891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 627
+        width: 446
+        height: 855
+      alignment: 9
+      pivot: {x: 0.4796493, y: 0.060508113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 587
+        width: 398
+        height: 967
+      alignment: 9
+      pivot: {x: 0.4701308, y: 0.05567107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 808
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5725446, y: 0.082946576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_SCENES/Main Menu.unity
+    guid: 1ea41231e8950bc4bb40c7cc28f40dad
+  - enabled: 1
+    path: Assets/_SCENES/Stadium.unity
+    guid: 4bafb7b07f23b6e44bc52bf3fb0f36c7
+  - enabled: 1
+    path: Assets/_SCENES/NationalAnthem.unity
+    guid: 3600df710503f96489728c56d43fe2c8
+  - enabled: 1
+    path: Assets/_SCENES/2 Tournament.unity
+    guid: d776dba6a387bad4baa73ba2685e3d87
+  - enabled: 1
+    path: Assets/_SCENES/1 Quick Match.unity
+    guid: ac4ff1afb67f72b44a6b5df670825942
+  - enabled: 1
+    path: Assets/_SCENES/4 Practice.unity
+    guid: 74a84141a1d397842b399c0561f26ce1
+  - enabled: 1
+    path: Assets/_SCENES/Challenge Selection.unity
+    guid: 3432c5447dee6844fb9b8f648fe7f228
+  - enabled: 1
+    path: Assets/_SCENES/3 Challenge.unity
+    guid: bb3b124967fc7e54784d70c33edb44e5
+  m_configObjects: {}
